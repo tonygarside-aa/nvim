@@ -1,0 +1,12 @@
+require('settings')
+require('keybindings')
+require('plugins')
+
+require('plugins/dap-go')
+require('plugins/dapui')
+require('plugins/lspconfig')
+require('plugins/mason')
+require('plugins/nvim-cmp')
+require('plugins/oil')
+require('plugins/persistent-breakpoints')
+require('plugins/telescope')
